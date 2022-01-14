@@ -21,7 +21,7 @@ const newsSites = [
   {
     name: "cnn",
     addr: "https://www.cnn.com/specials/world/coronavirus-outbreak-intl-hnk",
-    base: "https://www.cnn.com",
+    base: "",
   },
   {
     name: "our world",
