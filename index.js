@@ -55,7 +55,8 @@ newsSites.forEach((newsSite) => {
 });
 
 app.get("/", (req, res) => {
-  res.json("Welcome to My Covid Stats API Page!");
+  res.json("Welcome to My Covid Stats API Page! This site was constructed using Cheerio, Axios, Express to create an API made of \
+multiple news outlets around the world to bring updates related to the Covid-19 Pandemic.  Go to url extended /news");
 });
 
 app.get("/news", (req, res) => {
