@@ -19,11 +19,6 @@ const newsSites = [
     base: "",
   },
   {
-    name: "cnn",
-    addr: "https://www.cnn.com/specials/world/coronavirus-outbreak-intl-hnk",
-    base: "",
-  },
-  {
     name: "our world",
     addr: "https://ourworldindata.org/covid-vaccinations",
     base: "",
